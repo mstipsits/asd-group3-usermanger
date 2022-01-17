@@ -9,6 +9,10 @@
 - Michael Stipsits
 - Sükür Yavuz
 
+[![Build Status](https://app.travis-ci.com/
+mstipsits/asd-group3-usermanger.svg?branch=master)](https://app.travis-ci.com/github/
+mstipsits/asd-group3-usermanger)
+
 ## Funktionale Anforderungen
 
 
